@@ -10,6 +10,11 @@ Created with ❤️ by [Siddharth](https://github.com/Siddharth1India).<br><hr>
 4. [Deep Learning Course (NYU, Spring 2020)](https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v)
 5. [Deep Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
 6. [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+7. [Practical Deep Learning for Coders 2022](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+8. [Practical Deep Learning 2022 Part 2](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP)
+9. [Neural networks 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+10. [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+11. [Neural Networks - The Nature of Code](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh)
 
 ## Computer Vision
 1. [Stanford Computer Vision](https://www.youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ)
@@ -31,3 +36,21 @@ Created with ❤️ by [Siddharth](https://github.com/Siddharth1India).<br><hr>
 1. [PyTorch tutorials](https://youtu.be/V_xro1bcAuA)
 2. [Tensorflow tutorials](https://www.youtube.com/playlist?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9)
 3. [JAX crash course](https://youtu.be/juo5G3t4qAo)
+4. [fastai v2 code walk-thrus](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSWRCYUHh-ThVCC39bp5yiq)
+
+## Random watch
+1. [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
+2. [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+3. [Weights & Biases](https://www.youtube.com/@WeightsBiases)
+4. [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
+5. [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI)
+6. [StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+7. [Sentdex](https://www.youtube.com/@sentdex)
+8. [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)
+9. [Lex Fridman](https://www.youtube.com/@lexfridman)
+10. [george hotz archive](https://www.youtube.com/@geohotarchive)
+11. [DataTalksClub](https://www.youtube.com/@DataTalksClub)
+12. [Daniel Bourke](https://www.youtube.com/@mrdbourke)
+13. [1littlecoder](https://www.youtube.com/@1littlecoder)
+14. [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur)
+15. [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)
