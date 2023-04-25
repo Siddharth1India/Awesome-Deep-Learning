@@ -56,6 +56,8 @@ Find me on [Twitter](https://twitter.com/Siddharth1India)
 14. [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur)
 15. [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)
 16. [Computerphile](https://www.youtube.com/@Computerphile)
+17. [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+18. [Chai Time Data Science](https://www.youtube.com/@ChaiTimeDataScience)
 
 # LICENSE
 MIT
