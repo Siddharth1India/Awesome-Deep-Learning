@@ -33,6 +33,9 @@ Find me on [Twitter](https://twitter.com/Siddharth1India)
 4. [NLP Tutorials](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
 5. [Natural Language Processing](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 
+## Machine Laerning on Edge devices / Embedded Machine Learning
+1. [TensorFlow Lite for Edge Devices - Tutorial](https://youtu.be/OJnaBhCixng)
+
 ## Framework tutorials
 1. [PyTorch tutorials](https://youtu.be/V_xro1bcAuA)
 2. [Tensorflow tutorials](https://www.youtube.com/playlist?list=PL6vjgQ2-qJFfU2vF6-lG9DlSa4tROkzt9)
@@ -58,6 +61,7 @@ Find me on [Twitter](https://twitter.com/Siddharth1India)
 16. [Computerphile](https://www.youtube.com/@Computerphile)
 17. [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 18. [Chai Time Data Science](https://www.youtube.com/@ChaiTimeDataScience)
+
 
 # LICENSE
 MIT
