@@ -33,6 +33,20 @@ Find me on [Twitter](https://twitter.com/Siddharth1India)
 4. [NLP Tutorials](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
 5. [Natural Language Processing](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
 
+## Large Language Models and Diffusion
+1. [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+2. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+3. [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+4. [How Diffusion Models Work](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/)
+5. [Stanford CS25 - Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+6. [Hugging Face Course](https://youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o)
+7. [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY)
+8. [LangChain](https://youtube.com/playlist?list=PLVEEucA9MYhOu89CX8H3MBZqayTbcCTMr)
+9. [Large Language Models](https://youtube.com/playlist?list=PLVEEucA9MYhNF5-zeb4Iw2Nl1OKTH-Txw)
+10. [Text 2 Video](https://youtube.com/playlist?list=PLVEEucA9MYhNKfyrQdWVf8DEXabj84ZpD)
+11. [MidJourney Tutorials](https://youtube.com/playlist?list=PLVEEucA9MYhMdrdHZtFeEebl20LPkaSmw)
+12. [AI Image Generation Tutorials](https://youtube.com/playlist?list=PLVEEucA9MYhPVgYazU5hx6emMXtargd4z)
+
 ## Machine Laerning on Edge devices / Embedded Machine Learning
 1. [TensorFlow Lite for Edge Devices - Tutorial](https://youtu.be/OJnaBhCixng)
 
