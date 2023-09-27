@@ -32,6 +32,8 @@ Find me on [Twitter](https://twitter.com/Siddharth1India)
 3. [NLP with SpaCy](https://youtu.be/dIUTsFT2MeQ)
 4. [NLP Tutorials](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
 5. [Natural Language Processing](https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm)
+6. [Stanford CS224N: NLP with Deep Learning | 2023](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=FIiU8-PxUobB8ltg)
+7. [Stanford XCS224U: Natural Language Understanding | 2023](https://youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp&si=FhV9UlGmigDiY5fF)
 
 ## Large Language Models and Diffusion
 1. [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
@@ -49,6 +51,7 @@ Find me on [Twitter](https://twitter.com/Siddharth1India)
 
 ## Machine Laerning on Edge devices / Embedded Machine Learning
 1. [TensorFlow Lite for Edge Devices - Tutorial](https://youtu.be/OJnaBhCixng)
+2. [EfficientML.ai lectures](https://youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB&si=2RphIoXBcVkaxSeg)
 
 ## Framework tutorials
 1. [PyTorch tutorials](https://youtu.be/V_xro1bcAuA)
